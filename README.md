@@ -7,3 +7,7 @@ Few Links for further reference: :rocket:
 * [IBM Developer-New to Linux programming and administration](https://www.ibm.com/developerworks/linux/newto/)
 
 \- Surbhit Awasthi
+
+* [Linux Boot Sequence](https://www.thegeekstuff.com/2011/02/linux-boot-process)<br><br>
+![Boot Sequence](https://github.com/Abhishek1103/hacktoberfest-Abhishek1103/blob/master/linux-boot-process.png)
+
