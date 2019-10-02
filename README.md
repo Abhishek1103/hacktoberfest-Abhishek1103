@@ -11,8 +11,11 @@ Few Links for further reference: :rocket:
 * [Linux Boot Sequence](https://www.thegeekstuff.com/2011/02/linux-boot-process)<br><br>
 ![Boot Sequence](https://github.com/Abhishek1103/hacktoberfest-Abhishek1103/blob/master/linux-boot-process.png)
 
-- Swati Singh
+####  Swati Singh
 * [Adding your own system calls in Linux kernel](https://medium.com/anubhav-shrimal/adding-a-hello-world-system-call-to-linux-kernel-dad32875872) 
+* [GDB - GNU Project Debugger official page](https://www.gnu.org/software/gdb/)
+* [GDB Basics](https://medium.com/@amit.kulkarni/gdb-basics-bf3407593285)
+* [GDB Intermdiate](https://medium.com/@amit.kulkarni/gdb-intermediate-807252261a53)
 
 ## Contribution
 
@@ -45,4 +48,5 @@ Example: <br>
 
 ## Contributors
 
+- [Abhishek Kr. Singh](https://github.com/Abhishek1103) 
 - [Swati Singh](https://github.com/swatisingh20]) :octocat:
