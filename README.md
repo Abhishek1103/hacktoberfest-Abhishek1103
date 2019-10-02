@@ -11,6 +11,9 @@ Few Links for further reference: :rocket:
 * [Linux Boot Sequence](https://www.thegeekstuff.com/2011/02/linux-boot-process)<br><br>
 ![Boot Sequence](https://github.com/Abhishek1103/hacktoberfest-Abhishek1103/blob/master/linux-boot-process.png)
 
+- Swati Singh
+* [Adding your own system calls in Linux kernel](https://medium.com/anubhav-shrimal/adding-a-hello-world-system-call-to-linux-kernel-dad32875872) 
+
 ## Contribution
 
 * Fork the repository
@@ -40,3 +43,6 @@ Example: <br>
 
 * Createa a new pull request from the forked repository. :rocket:
 
+## Contributors
+
+- [Swati Singh](https://github.com/swatisingh20]) :octocat:
