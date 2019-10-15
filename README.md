@@ -6,10 +6,13 @@ Few Links for further reference: :rocket:
 * [The Linux Documentation Project](https://www.tldp.org/)<br>
 * [IBM Developer-New to Linux programming and administration](https://www.ibm.com/developerworks/linux/newto/)
 
-\- Surbhit Awasthi
+#### Surbhit Awasthi
 
 * [Linux Boot Sequence](https://www.thegeekstuff.com/2011/02/linux-boot-process)<br><br>
 ![Boot Sequence](https://github.com/Abhishek1103/hacktoberfest-Abhishek1103/blob/master/linux-boot-process.png)
+
+* [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+* [Linux From Scratch](http://www.linuxfromscratch.org/lfs/index.html)
 
 ####  Swati Singh
 * [Adding your own system calls in Linux kernel](https://medium.com/anubhav-shrimal/adding-a-hello-world-system-call-to-linux-kernel-dad32875872) 
@@ -50,3 +53,4 @@ Example: <br>
 
 - [Abhishek Kr. Singh](https://github.com/Abhishek1103) 
 - [Swati Singh](https://github.com/swatisingh20]) :octocat:
+- [Surbhit Awasthi](https://github.com/surbhitawasthi)
